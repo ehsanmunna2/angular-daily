@@ -1,0 +1,4 @@
+@baseUrl = https://www.mediafire.com/api/1.5
+GET {{baseUrl}}/user/get_session_token.php?email=grmunnabd@gmail.com&password=Munna(3510)&application_id=7798&signature=8d6c0fa4be3b6e44ea511e883745781e&token_version=2&response_format=json
+###
+https://www.mediafire.com/api/1.5/user/get_session_token.php?email=some_email@domain.com&password=123456&application_id=9999&signature=0123456789012345678901234567890123456789&token_version=2&response_format=json
